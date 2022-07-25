@@ -1,4 +1,4 @@
-package io.whysff.springbooto2o;
+package io.whysff.o2o;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

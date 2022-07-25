@@ -1,4 +1,4 @@
-package io.whysff.springbooto2o;
+package io.whysff.o2o;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
